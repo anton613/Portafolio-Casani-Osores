@@ -34,7 +34,6 @@ const dataSources = {
         ]
     },
     certifications: {
-        azure: 'imagenes/certificados/excel.pdf',
         gemini: 'imagenes/certificados/Gemini.PNG',
         excel: 'imagenes/certificados/excel.pdf',
         python_basico: 'imagenes/certificados/Python_Essentials_1_certificate_manuel-26-sco-gmail-com_77bfd705-65c4-4ea6-a1e9-f090da728dd6.pdf',
